@@ -1,4 +1,4 @@
-https://travis-ci.com/Youneselb/travisGettingStarted.svg?branch=master
+[![Build Status](https://travis-ci.com/Youneselb/travisGettingStarted.svg?branch=master)](https://travis-ci.com/Youneselb/travisGettingStarted)
 
 Ultra simple Java Project meant for a Travis introduction
 
